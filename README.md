@@ -1,4 +1,4 @@
-# Jenkins Linux Colors
+# Jenkins Linux Colors (like in Konsole)
 
 Colors should perfectly match the corresponding Konsole theme.
 
